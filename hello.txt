@@ -1,3 +1,4 @@
 GOODBYE.
 bonjour
-salut
+salutations
+Well isn't that an ambiguous greeting.
